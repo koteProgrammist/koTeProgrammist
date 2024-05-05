@@ -15,6 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-##I'm C# coder.
-#I'm C# coder.
-I'm C# coder.
+I'm just little C# coder. Make games on Unity and make my OS.

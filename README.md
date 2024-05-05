@@ -1,4 +1,4 @@
-### Hello, im Shlepsss.
+### Hello 👋, im Shlepsss.
 
 <!--
 **koteProgrammist/koTeProgrammist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm just little C# coder. Make games on Unity and make my OS.
+I'm just little C# coder 💻🐧. Make games 🎮 on Unity and make my OS.
+
+Also I'm a sound engineer 🔊 and light operator 💡.

@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 I'm just little C# coder 💻🐧. Make games 🎮 on Unity and make my OS.
 
-Also I'm a sound engineer 🔊 and light operator 💡.
+Also I'm a sound engineer 🔊.
